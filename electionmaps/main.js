@@ -1859,7 +1859,7 @@ function activeSeat(seat){
       $("#userinput-" + region + "-other").text("<0");
       userInput.over100 = true;
     } else {
-      $("#userinput-" + region + "-other").text(100 - checkSum);
+      $("#userinput-" + region + "-other").text(Math.round(100*parseFloat(100 - checkSum)) / 100);
       userInput.over100 = false;
 
     }
