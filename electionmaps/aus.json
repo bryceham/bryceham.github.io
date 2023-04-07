@@ -16,6 +16,19 @@
               0
             ]
           ]
+        },
+        {
+          "type": "Polygon",
+          "properties": {
+            "region": "wales",
+            "info_id": 2,
+            "name": "Aberconwy"
+          },
+          "arcs": [
+            [
+              1
+            ]
+          ]
         }
       ]
     }
@@ -354983,12 +354996,6 @@
         143
       ]
     ]
-  ],
-  "bbox": [
-    96.816941,
-    -43.74051,
-    167.998035,
-    -9.115517
   ],
   "transform": {
     "scale": [

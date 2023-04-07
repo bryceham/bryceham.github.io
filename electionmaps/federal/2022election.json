@@ -37,5 +37,32 @@
       "name": "Aberavon",
       "electorate": 50747
     }
+  },
+  "Aberconwy": {
+    "partyInfo": {
+      "libdems": {
+        "total": 1821,
+        "name": "Jason Edwards"
+      },
+      "labour": {
+        "total": 12653,
+        "name": "Emily Owen"
+      },
+      "plaidcymru": {
+        "total": 2704,
+        "name": "Lisa Goodier"
+      },
+      "conservative": {
+        "total": 14687,
+        "name": "Robin Millar"
+      }
+    },
+    "seatInfo": {
+      "current": "conservative",
+      "majority": 2034,
+      "region": "wales",
+      "name": "Aberconwy",
+      "electorate": 44699
+    }
   }
 }
