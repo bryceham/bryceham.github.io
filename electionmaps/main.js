@@ -292,10 +292,11 @@ var battleground = {
 
 
     $.each(currentMap.seatData, function(seat, data){
-      
-      $("#i" + data.mapSelect.properties.info_id).removeClass();
-
-      $("#i" + data.mapSelect.properties.info_id).addClass("map " + data.seatInfo.current);
+      if (data.mapSelect) {
+        $("#i" + data.mapSelect.properties.info_id).removeClass();
+  
+        $("#i" + data.mapSelect.properties.info_id).addClass("map " + data.seatInfo.current);
+      }
     });
     //reset choropleths selects
     $("#choro-voteshare option:eq(0)").prop("selected", true);
