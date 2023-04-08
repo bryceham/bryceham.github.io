@@ -2,40 +2,36 @@
   "Newcastle": {
     "partyInfo": {
       "ukip": {
-        "total": 3108,
-        "name": "Glenda Davies"
+        "total": 2517,
+        "name": "Amanda Cook"
       },
       "others": {
-        "total": 731,
+        "total": 2242,
         "name": "Others"
       },
       "conservative": {
-        "total": 6518,
-        "name": "Charlotte Lang"
+        "total": 25816,
+        "name": "Katrina Wark"
       },
       "labour": {
-        "total": 17008,
-        "name": "Stephen Kinnock"
+        "total": 46551,
+        "name": "Sharon Claydon"
       },
       "green": {
-        "total": 450,
-        "name": "Giorgia Finney"
+        "total": 21195,
+        "name": "Charlotte McCabe"
       },
       "libdems": {
-        "total": 1072,
-        "name": "Sheila Kingston-Jones"
-      },
-      "plaidcymru": {
-        "total": 2711,
-        "name": "Nigel Hunt"
+        "total": 4757,
+        "name": "Mark Watson"
       }
     },
     "seatInfo": {
       "current": "labour",
-      "majority": 10490,
+      "majority": 37987,
       "region": "wales",
-      "name": "Aberavon",
-      "electorate": 50747
+      "name": "Newcastle",
+      "electorate": 122452
     }
   },
   "Shortland": {
