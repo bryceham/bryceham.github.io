@@ -36,29 +36,37 @@
   },
   "Shortland": {
     "partyInfo": {
-      "libdems": {
-        "total": 1821,
-        "name": "Jason Edwards"
+      "ukip": {
+        "total": 3215,
+        "name": "Kenneth Maxwell"
       },
-      "labour": {
-        "total": 12653,
-        "name": "Emily Owen"
-      },
-      "plaidcymru": {
-        "total": 2704,
-        "name": "Lisa Goodier"
+      "others": {
+        "total": 8517,
+        "name": "Others"
       },
       "conservative": {
-        "total": 14687,
-        "name": "Robin Millar"
+        "total": 32215,
+        "name": "Nell McGill"
+      },
+      "labour": {
+        "total": 40135,
+        "name": "Pat Conroy"
+      },
+      "green": {
+        "total": 9910,
+        "name": "Kim Grierson"
+      },
+      "libdems": {
+        "total": 6397,
+        "name": "Quintin King"
       }
     },
     "seatInfo": {
-      "current": "conservative",
-      "majority": 2034,
+      "current": "labour",
+      "majority": 11671,
       "region": "wales",
-      "name": "Aberconwy",
-      "electorate": 44699
+      "name": "Shortland",
+      "electorate": 116245
     }
   },
   "Paterson": {
