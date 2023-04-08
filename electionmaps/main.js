@@ -307,7 +307,7 @@ var battleground = {
 ;var partylist = {};
 
 partylist["labour"] = "Labor";
-partylist["conservative"] = "Liberal";
+partylist["conservative"] = "Coalition";
 partylist["libdems"] = "One Nation";
 partylist["snp"] = "SNP";
 partylist["ukip"] = "United Australia";

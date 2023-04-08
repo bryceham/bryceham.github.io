@@ -71,56 +71,72 @@
   },
   "Paterson": {
     "partyInfo": {
-      "libdems": {
-        "total": 1821,
-        "name": "Jason Edwards"
+      "ukip": {
+        "total": 4474,
+        "name": "Jason Olbourne"
       },
-      "labour": {
-        "total": 12653,
-        "name": "Emily Owen"
-      },
-      "plaidcymru": {
-        "total": 2704,
-        "name": "Lisa Goodier"
+      "others": {
+        "total": 3504,
+        "name": "Others"
       },
       "conservative": {
-        "total": 14687,
-        "name": "Robin Millar"
+        "total": 42142,
+        "name": "Brooke Vitnell"
+      },
+      "labour": {
+        "total": 46725,
+        "name": "Meryl Swanson"
+      },
+      "green": {
+        "total": 8677,
+        "name": "Louise Ihlein"
+      },
+      "libdems": {
+        "total": 9363,
+        "name": "Neil Turner"
       }
     },
     "seatInfo": {
-      "current": "conservative",
-      "majority": 2034,
+      "current": "labour",
+      "majority": 7609,
       "region": "wales",
-      "name": "Aberconwy",
-      "electorate": 44699
+      "name": "Paterson",
+      "electorate": 132040
     }
   },
   "Lyne": {
     "partyInfo": {
-      "libdems": {
-        "total": 1821,
-        "name": "Jason Edwards"
+      "ukip": {
+        "total": 4421,
+        "name": "Joel Putland"
       },
-      "labour": {
-        "total": 12653,
-        "name": "Emily Owen"
-      },
-      "plaidcymru": {
-        "total": 2704,
-        "name": "Lisa Goodier"
+      "others": {
+        "total": 16218,
+        "name": "Others"
       },
       "conservative": {
-        "total": 14687,
-        "name": "Robin Millar"
+        "total": 46661,
+        "name": "David Gillespie"
+      },
+      "labour": {
+        "total": 23024,
+        "name": "Alex Simpson"
+      },
+      "green": {
+        "total": 8422,
+        "name": "Karl Attenborough"
+      },
+      "libdems": {
+        "total": 8502,
+        "name": "Josephine Cashman"
       }
     },
     "seatInfo": {
       "current": "conservative",
-      "majority": 2034,
+      "majority": 29594,
       "region": "wales",
-      "name": "Aberconwy",
-      "electorate": 44699
+      "name": "Lyne",
+      "electorate": 124499
     }
   },
   "Dobell": {
