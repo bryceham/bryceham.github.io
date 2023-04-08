@@ -2014,7 +2014,7 @@ function activeSeat(seat){
     $.each(regional, function(region, totals){
       var partyNew = {};
       $.each(userinput, function(party, percentage){
-        partyNew[party] = regional[region][party] + (userinput[party] - overall[party]);
+        partyNew[party] = regional[region][party] * (userinput[party] / overall[party]);
         if (partyNew[party] < 0){
           partyNew[party] = 0;
         }
