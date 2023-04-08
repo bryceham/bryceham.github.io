@@ -961,8 +961,10 @@ function seatExtended(seat, data){
 }
 
 var projection = d3.geoAlbers() // variables to change default map position
-	.center([-0.5, 54.4]) //centers vertically and horizontally
-	.rotate([2.25, 0])
+	// .center([-0.5, 54.4]) //centers vertically and horizontally
+	// .rotate([2.25, 0])
+  .center([0, 25.2744])
+  .rotate([133.7751, 0])
 	.parallels([51, 60])
 	.scale(5300)
 	.translate([mapAttr.width / 2, mapAttr.height / 2])
