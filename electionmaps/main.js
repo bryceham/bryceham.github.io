@@ -306,13 +306,13 @@ var battleground = {
 };
 ;var partylist = {};
 
-partylist["labour"] = "Labour";
-partylist["conservative"] = "Conservative";
-partylist["libdems"] = "Lib Dems";
+partylist["labour"] = "Labor";
+partylist["conservative"] = "Liberal";
+partylist["libdems"] = "One Nation";
 partylist["snp"] = "SNP";
-partylist["ukip"] = "Brexit Party";
+partylist["ukip"] = "United Australia";
 partylist["plaidcymru"] = "Plaid Cymru";
-partylist["green"] = "Green";
+partylist["green"] = "Greens";
 partylist["uu"] = "UUP";
 partylist["sinnfein"] = "Sinn Féin";
 partylist["sdlp"] = "SDLP";

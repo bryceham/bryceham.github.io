@@ -125,29 +125,37 @@
   },
   "Dobell": {
     "partyInfo": {
-      "libdems": {
-        "total": 1821,
-        "name": "Jason Edwards"
+      "ukip": {
+        "total": 3818,
+        "name": "Dean Mackin"
       },
-      "labour": {
-        "total": 12653,
-        "name": "Emily Owen"
-      },
-      "plaidcymru": {
-        "total": 2704,
-        "name": "Lisa Goodier"
+      "others": {
+        "total": 3745,
+        "name": "Others"
       },
       "conservative": {
-        "total": 14687,
-        "name": "Robin Millar"
+        "total": 34276,
+        "name": "Michael Feneley"
+      },
+      "labour": {
+        "total": 43595,
+        "name": "Emma McBridge"
+      },
+      "green": {
+        "total": 8700,
+        "name": "Cath Connor"
+      },
+      "libdems": {
+        "total": 7583,
+        "name": "Martin Stevenson"
       }
     },
     "seatInfo": {
-      "current": "conservative",
-      "majority": 2034,
+      "current": "labour",
+      "majority": 13265,
       "region": "wales",
-      "name": "Aberconwy",
-      "electorate": 44699
+      "name": "Dobell",
+      "electorate": 118400
     }
   }
 }
