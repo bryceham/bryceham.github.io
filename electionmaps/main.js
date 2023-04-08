@@ -2014,7 +2014,7 @@ function activeSeat(seat){
     $.each(regional, function(region, totals){
       var partyNew = {};
       $.each(userinput, function(party, percentage){
-        partyNew[party] = regional[region][party] * (userinput[party] / overall[party]);
+        partyNew[party] = regional[region][party] + (userinput[party] - overall[party]);
         if (partyNew[party] < 0){
           partyNew[party] = 0;
         }
@@ -2100,8 +2100,8 @@ function activeSeat(seat){
           // }
 
 
-          var seatChange = relativeChange[data.seatInfo.region][party];
-          var newPercentage = previous + seatChange;
+          var seatChange = relativeChange[data.seatInfo.region][party] / regional[data.seatInfo.region][party];
+          var newPercentage = previous * (1 + seatChange);
           if (newPercentage < 0.1 * previous){
             newPercentage = 0.1 * previous;
           }
