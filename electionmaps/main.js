@@ -2102,9 +2102,6 @@ function activeSeat(seat){
 
           var seatChange = relativeChange[data.seatInfo.region][party] / regional[data.seatInfo.region][party];
           var newPercentage = previous * (1 + seatChange);
-          if (newPercentage < 0.1 * previous){
-            newPercentage = 0.1 * previous;
-          }
 
           if (previous == 0){
             newPercentage = 0;
