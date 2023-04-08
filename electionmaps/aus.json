@@ -8,8 +8,8 @@
           "type": "Polygon",
           "properties": {
             "region": "wales",
-            "info_id": 1,
-            "name": "Newcastle"
+            "info_id": 3,
+            "name": "Paterson"
           },
           "arcs": [
             [
@@ -25,8 +25,8 @@
           "type": "Polygon",
           "properties": {
             "region": "wales",
-            "info_id": 2,
-            "name": "Shortland"
+            "info_id": 4,
+            "name": "Lyne"
           },
           "arcs": [
             [
@@ -39,8 +39,8 @@
           "type": "Polygon",
           "properties": {
             "region": "wales",
-            "info_id": 3,
-            "name": "Paterson"
+            "info_id": 5,
+            "name": "Dobell"
           },
           "arcs": [
             [
@@ -53,8 +53,8 @@
           "type": "Polygon",
           "properties": {
             "region": "wales",
-            "info_id": 4,
-            "name": "Lyne"
+            "info_id": 1,
+            "name": "Newcastle"
           },
           "arcs": [
             [
@@ -70,8 +70,8 @@
           "type": "Polygon",
           "properties": {
             "region": "wales",
-            "info_id": 5,
-            "name": "Dobell"
+            "info_id": 2,
+            "name": "Shortland"
           },
           "arcs": [
             [
@@ -318,20 +318,20 @@
       [
         -145,
         0
+      ],
+      [
+        -173,
+        127
       ]
     ],
     [
       [
-        1962,
-        807
+        1789,
+        934
       ],
       [
-        -170,
-        129
-      ],
-      [
-        -635,
-        131
+        -632,
+        133
       ],
       [
         -140,
@@ -474,12 +474,8 @@
     ],
     [
       [
-        1962,
-        807
-      ],
-      [
-        -173,
-        127
+        1789,
+        934
       ],
       [
         142,
